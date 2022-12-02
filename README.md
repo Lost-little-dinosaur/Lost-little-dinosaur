@@ -1,6 +1,7 @@
 ## Hi~, I am Lost-little-dinosaur
 
-Who am I? ```a CS student in HDU```
+Who am I?        
+```a CS student in HDU```
 
 What language do I know? 
 ```
@@ -37,3 +38,6 @@ That is a secret
 Anyway you can just know that I am very vegtable...
 And I am still working on it
 ```
+
+
+```All of these are ranked according to my proficiency level from highest to lowest```
