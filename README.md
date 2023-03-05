@@ -16,6 +16,8 @@ JAVA
 Lingo
 ```
 
+```All of these are ranked according to my proficiency level from highest to lowest```
+
 How is my technology stack? 
 ```
 My main work is mathematical modeling and Web development
@@ -40,4 +42,3 @@ And I am still working on it
 ```
 
 
-```All of these are ranked according to my proficiency level from highest to lowest```
